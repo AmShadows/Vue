@@ -1,4 +1,4 @@
-![Image text](https://github.com/AmShadows/Vue/tree/master/Screenshots/system.jpg)
+![Image text](Vue/Screenshots/system.jpg)
 
 # our
 
