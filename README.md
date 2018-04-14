@@ -1,4 +1,4 @@
-![Image text](Vue/Screenshots/system.jpg)
+![Image text](Screenshots/system.jpg)
 
 # our
 
